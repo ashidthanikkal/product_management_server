@@ -37,40 +37,58 @@
       "id": 4
     },
     {
-      "name": "f",
-      "brand": "f",
-      "category": "Computers",
-      "description": "ff",
-      "price": "f",
-      "image": "ff",
+      "name": "Apple AirPods Pro with MagSafe Charging Case",
+      "brand": "Apple",
+      "category": "In-ears",
+      "price": "20000",
+      "description": "Apple AirPods Pro with MagSafe Charging Case",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRim5waxLmFmLGqad04mmT2RZ94Kw0qwJZ2QgzlMzYNAiGKHA5Siwd1LS3gy3eFlMtCfrDkKlKwYQWpN0JTGrnaJak8ar1sVmyG3A2gboLh3nKy8W_yYSkY&usqp=CAE",
       "id": 5
     },
     {
-      "name": "f",
-      "brand": "f",
-      "category": "Computers",
-      "description": "ff",
-      "price": "f",
-      "image": "ff",
+      "name": "Apple AirPods Pro (2nd Generation-USB C)",
+      "brand": "Apple",
+      "category": "In-ears",
+      "description": "TWS Earbuds with Active Noise Cancellation (IP54 Water Resistant, MagSafe Case, White)",
+      "price": "23,790",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694672652/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/301165_xzuxl0.png?tr=w-640",
       "id": 6
     },
     {
-      "name": "ff",
-      "brand": "hh",
-      "category": "Camera",
-      "description": "hh",
-      "price": "hh",
-      "image": "hh",
+      "name": "Acer Predator Helios 16 14th Gen Intel Core i9 Processor Laptop",
+      "brand": "Acer",
+      "category": "Computers",
+      "description": "Acer Predator Helios 16 14th Gen Intel Core i9 Processor Laptop (Windows 11 Home/32 (2*16) GB/1 TB SSD/NVIDIA GeForce RTX 4080) PH16-72, WQXGA LED Backlit IPS Display with 240 Hz, 500 Nits High-Brightness, Abyssal Black, 2.65 KG",
+      "price": "249,990",
+      "image": "https://static-ecapac.acer.com/media/catalog/product/0/1/01_2_nh.qnxsi.003_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500",
       "id": 7
     },
     {
-      "name": "OPPO A38",
-      "brand": "OPPO A38",
-      "category": "Phones",
-      "description": "zz",
-      "price": "zz",
-      "image": "zz",
+      "name": "Asus ROG Strix R7 Gaming Laptop",
+      "brand": "Asus",
+      "category": "Computers",
+      "description": "Asus ROG Strix R7 Gaming Laptop G15 G513RC-HN062W",
+      "price": "107,500",
+      "image": "https://i0.wp.com/sharpi.in/wp-content/uploads/2022/05/02_real_strix_15_gr_l.jpg?fit=800%2C800&ssl=1",
       "id": 8
+    },
+    {
+      "name": "Apple 20W USB-C Power Adapter",
+      "brand": "Apple",
+      "category": "Accessories",
+      "description": "The Apple 20W USB-C Power Adapter offers fast, efficient charging at home, in the office or on the go.",
+      "price": "1900",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTFa79XJWGrO1D1MXqA4GyftkJbx7qDoy0nRDR2QXsfl9jhAe4dINHA4aCQwBL2oFJzL-mcXfVqm3I5vteBKaoK7odXaErOB3csoaeZFHB9LCQrIbC5IH-g&usqp=CAE",
+      "id": 9
+    },
+    {
+      "name": "Nikon Z5 Mirrorless Camera with 24-50 mm Lens Kit",
+      "brand": "Nikon",
+      "category": "Camera",
+      "description": "Compact and capable, the Nikon Z 5 is an FX-format mirrorless camera with a well-rounded feature-set to suit both photo and video needs.",
+      "price": "124999",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRa16qRRdPZPft3EDAFZrzK_51jeXLG3ZFz-z0REkRUwyf7sa5ySE0k5OUmpM0nfdNIN_z7k3fpxTWqTonbeLDMdyJlBgyrOc6TVMp6HT1UI02vMVomjFWBRw&usqp=CAE",
+      "id": 10
     }
   ]
 }
